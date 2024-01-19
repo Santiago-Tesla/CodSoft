@@ -12,6 +12,7 @@ Search Contact: Implement a search function to find contacts by name or phone nu
 Update Contact: Enable users to update contact details.
 Delete Contact: Provide an option to delete a contact.
 User Interface: Design a user-friendly interface for easy interaction.
+
 2. Rock-Paper-Scissors Game
 Features:
 
@@ -23,18 +24,21 @@ Display Result: Show the user's choice and the computer's choice. Display the re
 Score Tracking (Optional): Keep track of the user's and computer's scores for multiple rounds.
 Play Again: Ask the user if they want to play another round.
 User Interface: Design a user-friendly interface with clear instructions and feedback.
+
 3. PASSWORD GENERATOR
 Features:
 
 User Input: Prompt the user to specify the desired length of the password.
 Generate Password: Use a combination of random characters to generate a password of the specified length.
 Display the Password: Print the generated password on the screen.
+
 4. CALCULATOR
 Features:
 
 Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 Perform the calculation and display the result.
+
 5. TO-DO LIST
 Features:
 
